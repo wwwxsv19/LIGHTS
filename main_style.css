@@ -1,0 +1,37 @@
+body{
+    width: 1440px;
+    height: 2279px;
+    background: #ffffff;
+}
+header{
+    margin: 0 auto; width: 1038.394px; height: 604.567px;
+    flex-shrink: 0; position: relative; z-index: 1;
+    background: url(./images/header.png), 
+    lightgray 50% / cover no-repeat;
+    filter: brightness(70%);
+}
+#headertxt{
+    display: flex; position: absolute; z-index: 2;
+    width: 499.006px; height: 244.455px;
+    flex-direction: column; margin: auto 0;
+    justify-content: center; flex-shrink: 0;
+    color: #ffffff;
+    text-align: center; font-size: 54px;
+    font-family: Abhaya Libre;
+}
+#arrow{
+    margin: 5px; width: 94.465px; height: 53.362px;
+    top: 504px; left: 1096px; z-index: 3;
+    flex-shrink: 0; position: absolute;
+}
+#album{
+    margin: 0 auto; width: 320.238px; height: 320.238px;
+    top: 504px; left: 560px; z-index: 4;
+    flex-shrink: 0; position: absolute;
+    border-radius: 40px;
+    border: 16px solid #FFF;
+    box-shadow: 0px 10px 4px 6px rgba(0, 0, 0, 0.25);
+}
+#album img{
+    width: 100%; height: 100%;
+}
