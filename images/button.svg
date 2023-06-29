@@ -1,0 +1,6 @@
+<svg width="67" height="67" viewBox="0 0 67 67" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="button">
+<path id="around" d="M63.8177 33.1589C63.8177 50.0913 50.0913 63.8177 33.1589 63.8177C16.2264 63.8177 2.5 50.0913 2.5 33.1589C2.5 16.2264 16.2264 2.5 33.1589 2.5C50.0913 2.5 63.8177 16.2264 63.8177 33.1589Z" fill="#656565" fill-opacity="0.8" stroke="white" stroke-width="5"/>
+<path id="play" d="M53.8494 32.9247L20.9624 51.9121V13.9374L53.8494 32.9247Z" fill="white"/>
+</g>
+</svg>
