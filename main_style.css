@@ -101,19 +101,25 @@ body{
         }
 
     /* 라인 스타일 */
-    .line hr{
+    .line{
+        margin: 0 auto; margin-bottom: 51px;
         width: 1005px; height: 1px; top: 1041px; left: 217px;
         background: #BFBFBF;
     }
 
+    /* 트랙 */
     #sct3{
         height: 132px;
     }
+        /* 트랙 텍스트 */
         #track{
             margin: 0 auto; display: flex;
-    width: 270px; height: 81px; top: 1143px; left: 583px;
-    justify-content: center;
-    flex-direction: column; flex-shrink: 0;
-    color: #000; text-align: center; font-size: 56px;
-    font-family: 'Abhaya Libre', serif; font-weight: 400; line-height: 66px;
+            width: 270px; height: 81px; top: 1143px; left: 583px;
+            justify-content: center;
+            flex-direction: column; flex-shrink: 0;
+            color: #000; text-align: center; font-size: 56px;
+            font-family: 'Abhaya Libre', serif; font-weight: 400; line-height: 66px;
         }
+
+        /* 1 2 3 트랙 */
+        #
